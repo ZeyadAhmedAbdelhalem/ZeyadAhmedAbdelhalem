@@ -52,8 +52,7 @@
 ## 📫 Let's Connect!
 
 <div align="left">
-  <a href=mailto:zeyad.ahmed.abdelhalem122@gmail.com
- target="_blank">
+  <a href="mailto:Zeyad.Ahmed.Abdelhalem122@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href= https://www.linkedin.com/in/zeyad-ahmed-515a6535b/ target="_blank">
