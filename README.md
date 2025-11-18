@@ -1,16 +1,71 @@
-## Zeyad Ahmed
 
-1.  Dashboard Development
-2.  Data Cleaning & Visualization
-3.  Statistical & Exploratory Analysis
-4.   Business Intelligence & Reporting
+## Hi 👋! I'm Zeyad Ahmed
 
-<h1 align="center">Hi 👋, I'm Zeyad Ahmed</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zeyad-ahmed-515a6535b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeyad-ahmed-515a6535b" height="30" width="40" /></a>
-<a href="https://kaggle.com/zeyadahmedabdelhalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeyadahmedabdelhalem" height="30" width="40" /></a>
-</p>
+<h3 align="center">💻 [Your Profession] | Passionate about creating modern, responsive web experiences</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🛠 Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+</div>
+
+- **Languages**: Java, Python, JavaScript, PHP  
+- **Web Technologies**: HTML5, CSS3, Bootstrap  
+- **Frameworks/Libraries**: React  
+- **Databases**: MySQL  
+- **Cloud**: AWS  
+- **Tools**: GitHub, [Any other tools you use]
+
+---
+
+## 🚀 Projects
+
+### [🎯 [Project Name]]([Project URL])  
+[Short description of the project]  
+**Tools:** [List of tools used]  
+
+### [👩‍💻 [Project Name]]([Project URL])  
+[Short description of the project]  
+**Tools:** [List of tools used]  
+
+### [🍽️ [Project Name]]([Project URL])  
+[Short description of the project]  
+**Tools:** [List of tools used]  
+
+### [🏓 [Project Name]]([Project URL])  
+[Short description of the project]  
+**Tools:** [List of tools used]  
+
+### [🧬 [Project Name]]([Project URL])  
+[Short description of the project]  
+**Tools:** [List of tools used]  
+
+---
+
+## 📫 Let's Connect!
+
+<div align="left">
+  <a href="mailto:zeyad.ahmed.abdelhalem122@gmail.com
+" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href= https://www.linkedin.com/in/zeyad-ahmed-515a6535b/ target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="[Your GitHub]" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&style=for-the-badge" height="35" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
