@@ -1,70 +1,66 @@
+<!-- Header Section -->
+<div align="center">
+  
+# 👋 Hi, I'm **Zeyad Ahmed**  
+### **Data Analyst | Excel & Power BI Specialist**
 
-## Hi 👋! I'm Zeyad Ahmed
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-ahmed-515a6535b/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Zeyad.Ahmed.Abdelhalem122@Gmail.com)
 
-<h3 align="center">💻 [Your Profession] | Passionate about creating modern, responsive web experiences</h3>
-
----
-
-## 🛠 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
 </div>
 
-- **Languages**: Java, Python, JavaScript, PHP  
-- **Web Technologies**: HTML5, CSS3, Bootstrap  
-- **Frameworks/Libraries**: React  
-- **Databases**: MySQL  
-- **Cloud**: AWS  
-- **Tools**: GitHub, [Any other tools you use]
+---
+
+## 🚀 About Me
+Data Analyst with hands-on experience in **data analysis, reporting, and performance dashboards** using  
+**Excel, Google Sheets, and Power BI**. Skilled in transforming raw data into insights, automating workflows,  
+and building KPI-driven dashboards that improve decision-making efficiency.
 
 ---
 
-## 🚀 Projects
+## 🔧 Technical Skills
 
-### [🎯 [Project Name]]([Project URL])  
-[Short description of the project]  
-**Tools:** [List of tools used]  
+### **Data Tools**
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### [👩‍💻 [Project Name]]([Project URL])  
-[Short description of the project]  
-**Tools:** [List of tools used]  
-
-### [🍽️ [Project Name]]([Project URL])  
-[Short description of the project]  
-**Tools:** [List of tools used]  
-
-### [🏓 [Project Name]]([Project URL])  
-[Short description of the project]  
-**Tools:** [List of tools used]  
-
-### [🧬 [Project Name]]([Project URL])  
-[Short description of the project]  
-**Tools:** [List of tools used]  
+### **Core Skills**
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- KPI Reporting & Insights Generation  
+- Pivot Tables & Pivot Charts  
+- Power Query  
+- Dashboard Automation  
+- Workflow Optimization  
 
 ---
 
-## 📫 Let's Connect!
+## 📊 Featured Work
 
-<div align="left">
-  <a href="mailto:Zeyad.Ahmed.Abdelhalem122@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href= https://www.linkedin.com/in/zeyad-ahmed-515a6535b/ target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="[Your GitHub]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&style=for-the-badge" height="35" alt="GitHub" />
-  </a>
-</div>
+### **📌 Performance Dashboards**
+- Daily sales performance dashboard analyzing +200 transactions/day  
+- Employee performance dashboard improving accuracy by 15%  
+- Automated payroll reporting reducing manual work by 40%  
+
+### **📌 Reporting & Analytics**
+- Product performance analysis (pricing, demand, insights)  
+- Financial dashboards with error reduction of 30%  
+- Customer service reporting improving satisfaction by 10%  
+
+---
+
+## 🎓 Certifications
+- **Professional Diploma in Data Analytics (120 Hrs.) – 2025**  
+  Instructor: Eng. Alaa Essam
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  
+### ⭐ If you like my work, feel free to star my repositories
+
 </div>
