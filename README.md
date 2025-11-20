@@ -35,13 +35,22 @@ I'm a **Data Analyst** based in Cairo, Egypt, passionate about transforming raw 
 - **SQL**: Query writing, data extraction, joins, aggregations, subqueries
 - **Data Visualization**: Interactive dashboards, charts, KPI tracking
 
-### 🔧 Key Skills
-```text
-✓ Exploratory Data Analysis (EDA)    ✓ Data Cleaning & Preparation
-✓ Business Intelligence Reporting    ✓ KPI Development & Tracking
-✓ Process Automation                 ✓ Performance Metrics Analysis
-✓ Workflow Optimization              ✓ Trend Identification
-```
+# 🔧 Technical Skills
+
+<div align="center">
+
+| 📊 Data Analysis & BI | ⚡ Automation & Optimization |
+|:----------------------|:----------------------------|
+| • Exploratory Data Analysis (EDA) | • Process Automation |
+| • Data Cleaning & Preparation | • Workflow Optimization |
+| • Business Intelligence Reporting | • Performance Metrics Analysis |
+| • KPI Development & Tracking | • Trend Identification |
+
+</div>
+
+## ⚡ Automation & Optimization
+- **Process Automation**
+- **Workflow Optimization**
 
 ### 💼 Professional Skills
 - **Problem Solving** | **Attention to Detail** | **Time Management**
