@@ -80,29 +80,18 @@ I'm a **Data Analyst** based in Cairo, Egypt, passionate about transforming raw 
 
 ## 🚀 Featured Projects
 
-### 📊 Sales Performance Analytics Dashboard
-> Comprehensive Excel dashboard analyzing 200+ daily transactions with automated KPI tracking and trend analysis
-- **Tech Stack**: Microsoft Excel, Pivot Tables, Advanced Formulas, VLOOKUP
-- **Features**: Real-time sales tracking, product performance analysis, automated reporting
-- **Impact**: Enhanced decision-making with data-driven insights on pricing and inventory
+### 📊 Sales Performance & Commission Tracker
+Interactive Excel dashboard automating sales performance tracking and commission calculations with real-time analytics.
 
-### 👥 Employee Performance Tracking System
-> Automated workforce analytics system monitoring KPIs and generating actionable insights
-- **Tech Stack**: Excel, Google Sheets, Pivot Charts, Data Validation
-- **Features**: Performance metrics tracking, trend analysis, automated evaluation reports
-- **Impact**: 15% improvement in evaluation accuracy and enhanced team engagement
+**🛠️ Tech:** Excel, Pivot Tables, Slicers, Advanced Formulas  
+**🎯 Features:** Automatic commission calc, interactive filters, real-time dashboard  
+**🔗 Repo:** [View Project](https://github.com/ZeyadAhmedAbdelhalem/Sales-Representative-Performance-Dashboard)
 
-### 💼 Financial Monitoring Dashboard
-> Comprehensive expense tracking and financial analysis system with error prevention
-- **Tech Stack**: Excel, Data Validation, Complex Formulas, Conditional Formatting
-- **Features**: Real-time expense monitoring, budget tracking, automated calculations
-- **Impact**: 30% reduction in calculation errors and improved financial oversight
-
-### 💰 Automated Payroll System
-> Integrated payroll processing dashboard consolidating multiple data sources
-- **Tech Stack**: Excel, Google Sheets, VLOOKUP, Data Integration
-- **Features**: Automated deductions, bonus calculations, attendance tracking
-- **Impact**: Enhanced accuracy and streamlined payroll reporting process
+### 💼 Professional Analytics Projects
+- Sales Performance Analytics Dashboard
+- Employee Performance Tracking System  
+- Financial Monitoring Dashboard
+- Automated Payroll System
 
 ---
 
