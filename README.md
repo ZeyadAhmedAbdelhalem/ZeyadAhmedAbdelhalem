@@ -21,36 +21,23 @@ I'm a **Data Analyst** based in Cairo, Egypt, passionate about transforming raw 
 ---
 ## 🛠️ Technical Skills
 
-### Core Competencies
+### 📊 Core Data Analytics
+![Excel](https://img.shields.io/badge/Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql)
+![Power BI](https://img.shields.io/badge/Power_BI-Learning-F2C811?style=for-the-badge&logo=powerbi)
+![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python)
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 📊 Data Analysis & Visualization
-- **Advanced Excel**: Pivot Tables, Complex Formulas, VLOOKUP, Data Validation, Conditional Formatting
-- **Power Query**: Data transformation and ETL processes (Currently learning)
-- **Google Sheets**: Automated reporting, collaborative dashboards, data integration
-- **SQL**: Query writing, data extraction, joins, aggregations, subqueries
-- **Data Visualization**: Interactive dashboards, charts, KPI tracking
-
-# 🔧 Technical Skills
-
+### 🔧 Technical Competencies
 <div align="center">
 
-| 📊 Data Analysis & BI | ⚡ Automation & Optimization |
-|:----------------------|:----------------------------|
-| • Exploratory Data Analysis (EDA) | • Process Automation |
-| • Data Cleaning & Preparation | • Workflow Optimization |
-| • Business Intelligence Reporting | • Performance Metrics Analysis |
-| • KPI Development & Tracking | • Trend Identification |
+| Data Analysis | Business Intelligence | Automation |
+|:--------------|:---------------------|:-----------|
+| • Exploratory Data Analysis (EDA) | • KPI Development & Tracking | • Process Automation |
+| • Data Cleaning & Preparation | • Business Intelligence Reporting | • Workflow Optimization |
+| • Statistical Analysis | • Dashboard Development | • Report Automation |
+| • Trend Identification | • Performance Metrics | • Data Validation |
 
 </div>
-
-## ⚡ Automation & Optimization
-- **Process Automation**
-- **Workflow Optimization**
 
 ### 💼 Professional Skills
 - **Problem Solving** | **Attention to Detail** | **Time Management**
@@ -146,15 +133,22 @@ Analyzed performance metrics and customer feedback data to drive service quality
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Career Status
+<div align="center">
+  
+**🔍 Open to Data Analyst Opportunities**  
+**📍 Preferred:** Remote • Hybrid • Cairo, Egypt
 
+</div>
+
+## 📫 Get In Touch
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-ahmed-515a6535b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeyad.ahmed.abdelhalem122@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeyadAhmedAbdelhalem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-ahmed-515a6535b)
+[![GitHub](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeyadAhmedAbdelhalem)
 
-📍 Cairo, Egypt | 📞 +201115648581
+**📞 +20 111 564 8581** 
 
 </div>
 
@@ -170,6 +164,18 @@ Analyzed performance metrics and customer feedback data to drive service quality
 
 ---
 
+---
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Zeyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeyadAhmedAbdelhalem&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadAhmedAbdelhalem&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
 ## 📈 Profile Views
 
 <div align="center">
@@ -177,7 +183,6 @@ Analyzed performance metrics and customer feedback data to drive service quality
 ![Profile Views](https://komarev.com/ghpvc/?username=ZeyadAhmedAbdelhalem&color=blue&style=flat-square)
 
 </div>
-
 ---
 
 <div align="center">
